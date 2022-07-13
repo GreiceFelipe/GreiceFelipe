@@ -10,6 +10,4 @@ Desenvolvedora back end com experiência em Ruby on Rails desde 2013. Trabalhei
 ## Se quiser saber mais
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GreiceFelipe)](https://github.com/GreiceFelipe)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/greice-felipe-861a2193/)](https://www.linkedin.com/in/greice-felipe-861a2193/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+21+997519591&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+21+997519591&text=Hello!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:greice.n.felipe@gmail.com)](mailto:greice.n.felipe@gmail.com)
  
